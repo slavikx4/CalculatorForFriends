@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CalculatorForFriends</string>
+    <string name="entry">Укажите число участников(до 4 чел.)</string>
+    <string name="counterPeople">кол-во</string>
+    <string name="go">продолжить</string>
+    <string name="getNameTable">Введите никнеймы</string>
+    <string name="getName">никнейм</string>
+    <string name="poexali">let\'s go!</string>
+    <string name="karman">$</string>
+    <string name="plus_summa">+ чек</string>
+    <string name="summa_">потрачено\: </string>
+    <string name="error">В ШАРЫ ДОЛБИШЬ? СКАЗАНО ЖЕ ДО 4 ЧЕЛОВЕК!!!</string>
+    <string name="sorry">Извини</string>
+    <string name="oplata">Сколько заплатили?</string>
+    <string name="people_in_cheack">На кого поделить чек:</string>
+    <string name="okey">ок</string>
+    <string name="error_counter">Нужно выбрать покупателя!</string>
+</resources>
